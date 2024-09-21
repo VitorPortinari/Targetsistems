@@ -4,7 +4,7 @@ int main()
 {
     int x = 0, z = 1, prox_num_fibo = 0, valor_digitado = 0;
     
-    printf("Digite um valor:");
+    printf("Digite um valor:\n");
     scanf("%d",&valor_digitado);
     
     if (valor_digitado == x || valor_digitado == z) {
